@@ -1,0 +1,258 @@
+{
+  "version": "1.1",
+  "revision": "292f5a639bcbc3ae7a89b95d2bde6862cb492837",
+  "captured_at": "2026-09-04T14:55:58.023Z",
+  "word_rule": "Unicode letters or digits, optional internal apostrophe/hyphen; URLs/markup excluded",
+  "summary": {
+    "C-001": {
+      "languages": {
+        "ru": {
+          "records": 90,
+          "words": 22816,
+          "characters": 184382
+        },
+        "kk": {
+          "records": 90,
+          "words": 21858,
+          "characters": 183725
+        },
+        "en": {
+          "records": 90,
+          "words": 26779,
+          "characters": 184559
+        }
+      },
+      "unique_units": 90
+    },
+    "C-002": {
+      "languages": {
+        "ru": {
+          "records": 31,
+          "words": 1657,
+          "characters": 14193
+        },
+        "kk": {
+          "records": 31,
+          "words": 1475,
+          "characters": 13164
+        },
+        "en": {
+          "records": 31,
+          "words": 1977,
+          "characters": 13693
+        }
+      },
+      "unique_units": 31
+    },
+    "C-003": {
+      "languages": {
+        "ru": {
+          "records": 26,
+          "words": 1501,
+          "characters": 12917
+        },
+        "kk": {
+          "records": 26,
+          "words": 1280,
+          "characters": 11032
+        },
+        "en": {
+          "records": 26,
+          "words": 1810,
+          "characters": 12661
+        }
+      },
+      "unique_units": 26
+    },
+    "C-004": {
+      "languages": {
+        "ru": {
+          "records": 14,
+          "words": 2004,
+          "characters": 15293
+        },
+        "kk": {
+          "records": 14,
+          "words": 1938,
+          "characters": 15737
+        },
+        "en": {
+          "records": 14,
+          "words": 2317,
+          "characters": 15584
+        }
+      },
+      "unique_units": 14
+    },
+    "C-005": {
+      "languages": {
+        "ru": {
+          "records": 13,
+          "words": 224,
+          "characters": 1731
+        },
+        "kk": {
+          "records": 13,
+          "words": 234,
+          "characters": 1863
+        },
+        "en": {
+          "records": 13,
+          "words": 255,
+          "characters": 1724
+        }
+      },
+      "unique_units": 13
+    },
+    "C-006": {
+      "languages": {
+        "ru": {
+          "records": 6,
+          "words": 178,
+          "characters": 1395
+        },
+        "kk": {
+          "records": 6,
+          "words": 174,
+          "characters": 1448
+        },
+        "en": {
+          "records": 6,
+          "words": 229,
+          "characters": 1497
+        }
+      },
+      "unique_units": 6
+    },
+    "C-007": {
+      "languages": {
+        "ru": {
+          "records": 5,
+          "words": 294,
+          "characters": 2204
+        },
+        "kk": {
+          "records": 5,
+          "words": 287,
+          "characters": 2241
+        },
+        "en": {
+          "records": 5,
+          "words": 304,
+          "characters": 2100
+        }
+      },
+      "unique_units": 5
+    },
+    "C-008": {
+      "languages": {
+        "ru": {
+          "records": 8,
+          "words": 2076,
+          "characters": 16548
+        },
+        "kk": {
+          "records": 8,
+          "words": 2036,
+          "characters": 17188
+        },
+        "en": {
+          "records": 8,
+          "words": 2380,
+          "characters": 16144
+        }
+      },
+      "unique_units": 8
+    },
+    "C-009": {
+      "languages": {
+        "ru": {
+          "records": 97,
+          "words": 9781,
+          "characters": 82167
+        },
+        "kk": {
+          "records": 97,
+          "words": 9396,
+          "characters": 81106
+        },
+        "en": {
+          "records": 97,
+          "words": 14700,
+          "characters": 91539
+        }
+      },
+      "unique_units": 97
+    },
+    "C-010": {
+      "languages": {
+        "ru": {
+          "records": 1,
+          "words": 10409,
+          "characters": 84355
+        }
+      },
+      "unique_units": 1
+    },
+    "C-011": {
+      "languages": {
+        "ru": {
+          "records": 21,
+          "words": 1064,
+          "characters": 8901
+        }
+      },
+      "unique_units": 21
+    },
+    "C-012": {
+      "languages": {
+        "ru": {
+          "records": 152,
+          "words": 565,
+          "characters": 4131
+        },
+        "kk": {
+          "records": 152,
+          "words": 517,
+          "characters": 4088
+        },
+        "en": {
+          "records": 152,
+          "words": 660,
+          "characters": 4066
+        }
+      },
+      "unique_units": 152
+    },
+    "C-013": {
+      "languages": {
+        "ru": {
+          "records": 17,
+          "words": 179,
+          "characters": 1630
+        },
+        "kk": {
+          "records": 17,
+          "words": 176,
+          "characters": 1674
+        },
+        "en": {
+          "records": 17,
+          "words": 219,
+          "characters": 1600
+        }
+      },
+      "unique_units": 17
+    },
+    "C-014": {
+      "languages": {
+        "en": {
+          "records": 36,
+          "words": 187,
+          "characters": 1374
+        }
+      },
+      "unique_units": 36
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "version": "1.1",
+  "date": "2026-09-04",
+  "source_revision": "292f5a639bcbc3ae7a89b95d2bde6862cb492837",
+  "files": {
+    "CHANGELOG.md": "2beba356d5a44b7b6099fb32c1cf6a053d3a3a3c6a79515398e6df33b7c7a933",
+    "CONTRIBUTING.md": "9616fb76e3673d51d9577ee953e5f8efc1ec21f724c0b0009e9bc300442bbfb0",
+    "LICENSE": "ca30811c829a496c1a002ec8df86d92d68bd67922aae9a170201b053b225caf3",
+    "README.md": "6dbc351739f96f05814c6eeb1a81db66aad3ffa8e038275f0fa0d60d87e41da8",
+    "bidder-form.md": "9171ca1fc43e3642cbdbd7c683be8ddc457bdcf41f87f3edbd0f3f63dc3f31f2",
+    "brief.md": "db01f08d82cc2fc3e8c4c429beb74c769d109afa8f24ec0b486206563da05cea",
+    "contracts.md": "54f23b9ba5259d370cc2d82cd3d04ae6e756d01c6b3f1224052a0664703c0738",
+    "corpus-volumes.md": "94dd298800a6de09376300cd0afef696fb45223f79cd1fb8e744b95de96a19df",
+    "corpus.csv": "73eb49eb204a9954b3e4fb8653eb579f8e5d1b7a4f50e267755401efc05d747d",
+    "editorial-operations.md": "b8f2834bb800e0852ee57b2645d58a4964fa06c47bd9bec45ae49196e37abe02",
+    "editorial.md": "99df8be5dc8fd0a50e992dcbdfff49f35a345ec54a9eed91e1c0e0ef472ab19b",
+    "fixtures.json": "3fb97214558d61a1694cfa271138ffa48fcbe902057b43b45de1359f9a67d1bb",
+    "measurement-metadata.json": "e5ec22c7eae26b9686b01bec59f5e623f693bebe13c7e064314f0cb6bee151a0",
+    "methodology.md": "9d6d7eaa9402b655118b30259cc55073929bc2037ba0a15a57444eb04dbb4881",
+    "reuse-ledger.json": "6f98d14646e6fe588bcc8a8fb6e9d8ce2e42f6d22c6dd38c5642129f3b2d27ae",
+    "reuse.md": "d773429600f31bbf66c29514133d7f2c7e67605b6aab9aab52aadabaf1f93ace",
+    "risks.md": "e045847f09a2122ef61a9557293bd2242bd3d05c9f6ce045c8da886c442fb17a",
+    "validate.mjs": "caa6dc143e73286c3ff6ec9b792b2dfc0288deab13fb711c626e73c4ebf0dfee",
+    "verify-corpus.mjs": "67f0adc740d90551d36fb38667c261f98c3bc62e951a2ba101b2e76a5264714c",
+    "work-register.md": "2581b01363d4e4e87f9a5dd49d5bcf6495fc078f603d8752309eb6b71039c732"
+  }
+}

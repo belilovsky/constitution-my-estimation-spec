@@ -1,0 +1,21 @@
+{
+  "notice": "Synthetic examples only; not legal content or production responses.",
+  "word_cases": [
+    {"language":"ru","text":"Тестовый текст: по-новому, 2026.","words":4},
+    {"language":"kk","text":"Сынақ мәтіні: жаңа нұсқа.","words":4},
+    {"language":"en","text":"Sample text: reader's test-case 2026.","words":5}
+  ],
+  "responses": {
+    "featured": [{"slug":"sample","question":"Example","short_answer":"Synthetic text","section":{"code":"demo","title":"Demo"}}],
+    "all": {"items":[{"slug":"sample","question":"Example","short_answer":"Synthetic text","section":{"code":"demo","title":"Demo"}}]},
+    "search": {"items":[{"slug":"sample","question":"Example","short_answer":"Synthetic text","section":{"code":"demo","title":"Demo"}}]},
+    "empty_search": {"items":[]},
+    "detail": {"slug":"sample","question":"Example","short_answer":"Synthetic text","section":{"code":"demo","title":"Demo"},"blocks":{"answer_html":"<p>Synthetic text</p>","facts_html":"","what_not_change_html":"","where_detailed_html":"","misconceptions_html":""},"article_refs":[{"article_number":1}],"source_records":[{"title":"Example source","url":"https://example.org/source"}]},
+    "glossary": {"items":[{"id":1,"term":"Example","short":"Sample term","definition":"Synthetic definition"}]},
+    "random_term": {"id":1,"term":"Example","short":"Sample term","definition":"Synthetic definition","anchor":"term-1","all_href":"/glossary?lang=en&term=Example"},
+    "suggest": ["sample",["Example"],["Synthetic text"],["https://example.org/sample"]],
+    "basics": {"title":"Example","intro":"Synthetic introduction","sections":[{"title":"Part one","content":"Synthetic section"}]},
+    "comparison": {"sections":[{"id":"demo","title":"Example","items":[{"id":"sample","title":"Example","before":"Sample A","after":"Sample B","editorial_note":"Not a legal comparison","references":{"1995":[{"article_number":1}],"2026":[{"article_number":1}]}}]}]},
+    "segments": [{"id":"sample:preamble:en","type":"preamble","text":"Synthetic preamble","paragraphs":["Synthetic preamble"],"canonical_url":"https://example.org/full-text"},{"id":"sample:1:en","type":"article","article":1,"section":1,"text":"Synthetic article","paragraphs":["Synthetic article"],"canonical_url":"https://example.org/full-text#article-1"}]
+  }
+}

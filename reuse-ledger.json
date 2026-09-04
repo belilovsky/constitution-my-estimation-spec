@@ -1,0 +1,1732 @@
+{
+  "version": "1.1",
+  "ui_formulation_groups": [
+    {
+      "keys": [
+        "AppLanguage.kt:aboutBody"
+      ],
+      "hashes": {
+        "ru": "dadf2504d063f6aa6e34f4f38154a869bdb1f3277b34a19d84a7a7f74cd4cc6c",
+        "kk": "7c9be82f72af6841d4738f04b17fd12d890f2fabc064cca2cda10da1903d6475",
+        "en": "82e3ade43786df4e77b3c353cdac82dd5625d995d53ab6bd4fd7808abe925a82"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:aboutTitle"
+      ],
+      "hashes": {
+        "ru": "a5fda3b984499c283ea2edabbcbcd434736afab25d70f01c9d5e21d5136178a2",
+        "kk": "3bc6e82eb74f5a4a59d5ae10547053d1c62ce6dabc07ef2ceeafc429d1f2e60d",
+        "en": "635fa96abe980ddfaeb1a90a79eb75cb504c4ab0e2638783b65635ae1ac43c8e"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:assistantBody"
+      ],
+      "hashes": {
+        "ru": "d1f887673aa1864e595b4716be8681d1f516ab10ff8a7f4e208e3141a52e64fd",
+        "kk": "b79138f331493040d52b9c63205218198ba3a66c4edd603f8909a12817a48a07",
+        "en": "e7a5d4643b2aa8ca5b275fa4e974c6482d8b327e69c260ef5d7510a700979a09"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:assistantShort",
+        "i18n.js:assistant"
+      ],
+      "hashes": {
+        "ru": "b798a37544b6a31bb4848c207d2751a67ec7ed83c5e5dec5ff7026a2f11c38f1",
+        "kk": "aace6f01fec962b0a4d9e86b3307279c4e73ef38ca3014c4694c50d095dc10ae",
+        "en": "391e405152779acc6b0f9429f3a4e27baf2af0deab2c37ba792311efa767d676"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:assistantTitle",
+        "NativeAssistantScreen.kt:title"
+      ],
+      "hashes": {
+        "ru": "68f540395ff776998a2a4360ffb286cfd6e6c9a9564a928767ae0b3cc191c8a5",
+        "kk": "33c7c35e619ee04f354eb95991bf00dac9ce25bf28283826e1fbc471eda27519",
+        "en": "dac180fa4705ea9809a575f8bf2eae56570e17004c2789e91941de947388cdf2"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:back",
+        "LegalLibraryScreens.kt:back",
+        "NativeAssistantScreen.kt:back"
+      ],
+      "hashes": {
+        "ru": "1a9fb1f3cf8e189a74acd6849678ed4bdf80fde41ed2f9c35a85550b0e3586fa",
+        "kk": "ae769767c8cd9abb7d11a5cb3ccadd2d655e9d0ae637e99a01f75a1de2f61bd4",
+        "en": "76900f1bfd16c8d4dd3d25e6f46638d7165aee23883ccea6bfe071c514421769"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:brandTitle",
+        "i18n.js:brand"
+      ],
+      "hashes": {
+        "ru": "6285585d098a2eaa594ab8ad577fdeb56e8ff4d48f2cfa0124ae3190ed885f55",
+        "kk": "e6cf6bbbeaefd5f5a20e876175897f412397101fe0c1e874e988e6a6e41b72d4",
+        "en": "3615a346e4add616a70bff76866568fb8e12c305f82a1f4b3bf9d9b739277bce"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:compareBody"
+      ],
+      "hashes": {
+        "ru": "ad03ba223b7c403261d60964a365272f7c0304e94c89bbf73663e6eb75e20243",
+        "kk": "2a5d0f6494a01282cc658be818094afccd156a489d3ebe9b647dd7f5295d90fb",
+        "en": "6f56a773beed6b2735dfe4609f6fe2ed90cea1855518f3ac4f058d1254e9fb3c"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:compareTitle"
+      ],
+      "hashes": {
+        "ru": "ca308a3c2ce5c473e08d2b73456d26ca8b7360a07df40be7480886c7f13a827c",
+        "kk": "366d3fbda0e83d6a9ba51b8973b47475f64606e1a5ae350e89a279d013a3c424",
+        "en": "7a48be15681c63d6be739a1be6a3746da10a913d25b08678858a60e900929011"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:findAnswer"
+      ],
+      "hashes": {
+        "ru": "fde7905c84ee119f58296047091b989524c0841b1650d58cb2abcb019422efab",
+        "kk": "ec553f1d81b35a6ed8352bad7cec6a49c31624f357a6e0edc128cb18b9f635a9",
+        "en": "a4de111d1977204be96b31791644707447a9dfd24103ab181b661e3dcee3a9c8"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:fullTextBody"
+      ],
+      "hashes": {
+        "ru": "164fa0b5738486fe2b7d4e05f0c1d6c8c7ff9274b4f20f50d4e524de5ce0fcbb",
+        "kk": "9f8a2986f5d98f25b0434a7da1d50508978ec21d88a87317ae42642479defa90",
+        "en": "c491ecc4d29ffb75343979cca4af35809955a67141089b1a2e1691c55e6736bf"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:glossaryBody"
+      ],
+      "hashes": {
+        "ru": "6adb8d2a6af3036eb84f6bb4e02c1e0e908505ab7004a092c9f1ea10ad2c53f3",
+        "kk": "9c31f679244a1475363961d5d8dc1a386d6b2cdcb60b9c12c450dcdebcafbc70",
+        "en": "4e7fe72972b67806d395b5a12de66bf35ca66fbc4d4a1df0caea476582e93d94"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:glossaryTitle",
+        "LegalLibraryScreens.kt:glossaryTitle"
+      ],
+      "hashes": {
+        "ru": "9c052964cdd725d51910139741cf87bd65c7cdc933535c05d5443fc8e267589b",
+        "kk": "9c052964cdd725d51910139741cf87bd65c7cdc933535c05d5443fc8e267589b",
+        "en": "4c4e436f9a453c776dbf011f98d932d615988bb08bddec6051625340e88d012f"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:heroBody"
+      ],
+      "hashes": {
+        "ru": "1266b1fae2d01585c9962d88b8a4d39d1faa4594f081c554c5e71c519b7f5738",
+        "kk": "4e8fc471c80a2f48ea40e7fe8f8a3938aba540f8861051c461f4ac975f99edc0",
+        "en": "58abbf4e36b531fcf48780d2830db3f43f00de36f84f1fffdab8cbbfd54763f4"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:heroEyebrow"
+      ],
+      "hashes": {
+        "ru": "957c252efe344c09c7876ae4916066e2456aea1c14510f84d2107d7cd85ba410",
+        "kk": "ed5170e197821b8743d0e33dc3015ff4c0a9bff6a22a53963775f2e8fa694795",
+        "en": "628484abf766ce291ea54a615ad83a1eb58f50bc013a05bfa5161566c8aec5a0"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:heroTitle"
+      ],
+      "hashes": {
+        "ru": "52ffc9eb31d6f56ac2c81624510ca88ff2d988ede4f3e7699b4e8793f5cfb8dc",
+        "kk": "5de903411d61a8e4f3e1cfd760392ca25a0c1e24e89364f27ccb16eab11f90c4",
+        "en": "05ead8bf0e87f14981c829c1d0e7e3a12f204d398122a12068253a6c93f76436"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:languageBody"
+      ],
+      "hashes": {
+        "ru": "63d3fee38aa3c694014d5dcc665ffbd115748e301b4737bf4d6a738dfa7e0383",
+        "kk": "e258766122047246a6fb49d657f32963dd983a22b519d52e1d7f9739e6950e19",
+        "en": "b03b71097fad2b5838be07cb2fad5d1404a3ea6ea22d86e9b52b10ad76cb57a7"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:languageTitle"
+      ],
+      "hashes": {
+        "ru": "638824d1f1d3ffb7399dfbcef110f4d90dd44f037f6b2e1b7495cf11a1e62ecc",
+        "kk": "3bf4d505f982b406bc394602aafa22831fb2e3220645c5217ec2e99d1ab19084",
+        "en": "37997e9398086dca057c0819b545cca751af5438c1bec974f55d6ad9e1fd4ad0"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:latestSubtitle"
+      ],
+      "hashes": {
+        "ru": "ab5cd18b1c1b63596327cc5cd197933c61ddb0e082237a4b32d73aa76beeffd0",
+        "kk": "a1729d9d29b203f4c9e9608334652000f7f3721029b6d4e271077dae5d2791d1",
+        "en": "eaacc2e8387da7a7f6bbe0b5e6a6b29007f2f3b1b0cd998cdc221b4153b4d9c4"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:latestTitle"
+      ],
+      "hashes": {
+        "ru": "6e6a0471a483b963eec53b55420026db0cec3a0d4ef0aec58ac71616c3d2ac67",
+        "kk": "532b424d2c45fa67549129215d9abdf18ac1e49a02072d3f4856dd5462ff5c88",
+        "en": "4913b528bb77d141860c4d82c5aa2b705abddc30ac8196d979bacca3bfbef6ac"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:loading"
+      ],
+      "hashes": {
+        "ru": "1c22de513e0d05bbd0b373543e95401bc84fe3e77d03b43f1e982a7d40229b0f",
+        "kk": "3fc252527522736f247b93e8ffb2e4220e0566a3e2f7e262328ae8dcc18d8a65",
+        "en": "2c387be99730a47e62efc5f2148e5ba82c109a7e2937ba0342e6d72171e81445"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:materialsUnavailableBody"
+      ],
+      "hashes": {
+        "ru": "43cc63cbb6439fc7f72564b2ac0e5378fc7ba68e97ebf0c0b32431ba82ee3b5d",
+        "kk": "2c66f10cdffa58e2fe5acc576ae2d95cbccd017f4811cc25d0da1ebff91f406d",
+        "en": "1bba636aa5c70f719caefac63bdd4f0f981bd770ab027c0c2d672781eb5abb6a"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:materialsUnavailableTitle"
+      ],
+      "hashes": {
+        "ru": "b981d0d9f616feefbc15e4f42e4e3863e06a2de1c96fb29b3597384b8e8f5853",
+        "kk": "2556309eef8d3339c409a08611b9afa83b54047e633c5a20bfcf498bf9ed0743",
+        "en": "8b04c618ab8203e8a429168126628653c693da216dc87dd3e11f849e61b9e23b"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:moreSubtitle"
+      ],
+      "hashes": {
+        "ru": "df22421a16c7ddadb7cde68930f233a4ae15ac08a03b49a868bf7c46ca9b94e0",
+        "kk": "ba237e6fe27716674aa908dd83cf0b89191f710652bbdaab9129373a4549bbda",
+        "en": "c18c6829e0bad5c63ccd0539127f42663f15e7ac8f035f3257b2b9296e00369e"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:navHome",
+        "i18n.js:home"
+      ],
+      "hashes": {
+        "ru": "d328e53dc4561e099c85d45d26fea5d20aac5ffc2b949a0388eb794e30db40cb",
+        "kk": "15a3fe6b319add9807eb6d62a6046f4c6d153a662b2aee41e44b90374f5306df",
+        "en": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:navMore"
+      ],
+      "hashes": {
+        "ru": "2071fb99050431712e60af0fe7ad59c29158386d28212c756f736de4f70586c7",
+        "kk": "171cff564a2261dca5b3429e8b85585996be48d6a2e7b64e8cfb3d30dff0557f",
+        "en": "d47d7cb0e4f8fd2be5ee07826694c18917d83ca77d0a01698582d05f432db996"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:navSaved"
+      ],
+      "hashes": {
+        "ru": "a5339cdab4a5cfd6ef6921ce52eda8b5849f2170dc1e20f93710d2267a42db91",
+        "kk": "4547ae3b2d26611980d8f542fbeb0aa8c8582839f197bde4b1cce493d6056b29",
+        "en": "b5c120b316c237a0deab3140267aebedba61947d3ae268d708a53d5be119e9fb"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:navSearch",
+        "i18n.js:search"
+      ],
+      "hashes": {
+        "ru": "180f58ab975323f98064952d056a0fdf5ca7479de168c77b8c0799aaf011aa92",
+        "kk": "47762775061cf47028fcea283cec58f382c5b7a1be63ac915a31015ee5670d0f",
+        "en": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:nextStepTitle"
+      ],
+      "hashes": {
+        "ru": "4813fde81cace4e1f82bcf47584b4f6070ac0de7d12cdc0dbb04a3623105a851",
+        "kk": "235922a2245b4c494e3f6c8638ebfeedb617f8bc2e063c91a93d03ef3959c48d",
+        "en": "6534482ac967e413875042b95ee030d273a500d7df9fdb303a06c60571eb790a"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:noResultsBody"
+      ],
+      "hashes": {
+        "ru": "ca5cfd654db22f13f65500747195e1397ef46f7acec57bfaf76624c7c772cd4b",
+        "kk": "a0d22b1885da27c4b7ffa5fe46a670411d7e33b259a7533777f537b05c65e6c2",
+        "en": "08773ca1916a12032aa1f202caba419c4b1669b610a26919466840521d389b17"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:noResultsTitle"
+      ],
+      "hashes": {
+        "ru": "f33d83e1ab518da8704a501c601b23f0e182e82db904319b92883099c62f037a",
+        "kk": "4bf21b2b9541cbae8e1a55ed358810c260b9c3dd5a3308aeddd6ce9ee821aa4f",
+        "en": "9f5cac3cf2edba6312adda311458beaddfc600fcd618bfdff68aff335944a616"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:offlineFallback"
+      ],
+      "hashes": {
+        "ru": "c22227d2a7cdab0271289307da8b729d5f28eea96e8767bf6f8767703aa4c41f",
+        "kk": "4b8e83d9da900f7268cc0a2cde6e402bf7714c990653d7d1824f8284003896b7",
+        "en": "577926884ff355cfd563d96afd12c04b9a0e89efe90b9be260034a4750640059"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:quickAssistantBody"
+      ],
+      "hashes": {
+        "ru": "e85fa65936d6eaedc253b97a5e81addee20e2db37fd28d335518d18fead9598f",
+        "kk": "951ccf39ac09029ef0a0961df31d9e483e4c4bb800d026febc7cd22847192049",
+        "en": "ccfbb496409ef42c057196ff122ad676d0148e3e9e0f88c0b7f2c383672d1f83"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:quickAssistantTitle"
+      ],
+      "hashes": {
+        "ru": "9e8708f2d91f339891dec3db351600f2ef0ff35c9f0f83c0986fedaac34fa74d",
+        "kk": "a633bd2f68e4b5fc4003ee38b805dcdb05e60c68231b2fcfd6265da13fed0345",
+        "en": "ae207dbb7b681953b62878a65b90932a73dfdc1d7244ab2c6f35f399efb3e4b6"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:quickFindBody"
+      ],
+      "hashes": {
+        "ru": "bb4802c1e4c3e94efed6564ee00f9dc368702784c47851343aa8a33d377c39fa",
+        "kk": "1ad50610b40ddba8f3dfeee3ff8579f49c878f394dd7e2ada38ee41393ba4276",
+        "en": "1d769cd1e43fb906db3d679bf1c2b48f471c75b2d2ce654e005b72cd050941f7"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:quickFindTitle"
+      ],
+      "hashes": {
+        "ru": "0f9877cb58e899c1c0a021c0f1fedd50957874cc4925bdeee630cb306791d7cd",
+        "kk": "8252a704dfe86e845a85e3567b7983722761cffb330edf07fcd8a078a4ad4503",
+        "en": "a12cac7f4f4ab9b061cb243afa8cc5b34ecd27588bed7b5fead13701a0e98194"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:quickFullTextBody",
+        "LegalLibraryScreens.kt:fullTextEdition"
+      ],
+      "hashes": {
+        "ru": "f65183c35f30682beb6d5aedbdd32fd5018f416d993694aa9f9043f04c2fc4a7",
+        "kk": "f65183c35f30682beb6d5aedbdd32fd5018f416d993694aa9f9043f04c2fc4a7",
+        "en": "3713d9f4b1fcdf8013dc95655a0bdd515b4fb1717ec931a04958b2275f880abe"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:quickFullTextTitle"
+      ],
+      "hashes": {
+        "ru": "da96485fd11541f310ee69a6b684329ac5b130a8017f34a7a216e17a660a3277",
+        "kk": "7f5650ebe061fc7d015a3d303334b3e12fa03005a72078f2421219d7314c8cee",
+        "en": "be79398d4e4e5d46442838bb294131de412d005d72f638d248405d76a2dfc3a1"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:quickRoutes"
+      ],
+      "hashes": {
+        "ru": "911b529ff2c053c41236fe4e7db497fee8ffdc77984edc0725a05d79ed5b2999",
+        "kk": "74f117b3c38b4c92ea57f204af07e0967c105514ff6ad6636827d479c1598132",
+        "en": "ca8106084ae6f0a261cb773254de4b91a2c43686d15b0c5d5709fea3aaae806e"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:quickRoutesSubtitle"
+      ],
+      "hashes": {
+        "ru": "e005f3af6c92919efc8d472180be85d0cdf80ca6053679683cfff1981141c75d",
+        "kk": "323aa167535701cf5aaac1028825aa0418f1774432ea45d9295d8d8744fe7d30",
+        "en": "6cffb36eda7c7276300279de7abe3958de6c642caeb6cffca09004c0e6e33a4c"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:readerDisclaimer"
+      ],
+      "hashes": {
+        "ru": "51202249d9dc4d19ffc697f9e7bbb9670d4994fd1e92211b09cfce6558994fc3",
+        "kk": "b891a83f9f02b75fb1497d84e931d4374c25b9f3f692fda5b2e88cd15e680f67",
+        "en": "6fc37288dac4a563392bcf9946520813debf33425c5f61e221d3ad86c7999ce6"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:readerSource"
+      ],
+      "hashes": {
+        "ru": "710d6e14605f07dab10a296b0f986297c4144b43870f5f1e8178192eb8813845",
+        "kk": "6f7d338acb4c4c000d9de212cf79a189470f46b6a15ecc5d8ebf7d004dac80f0",
+        "en": "fd157bbe383f2ed9f5710b3652826525c4cdd3b63aeffb3fa18772bb379a95ea"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:readerSummaryTitle"
+      ],
+      "hashes": {
+        "ru": "3a42d2327c1e0763a5ffc387ea344ea8531886c0786193e4d77ebd916b171d9c",
+        "kk": "b799a6a5bfa72f6fac432cd9f32bd0818e7dc6236f1fa1ec5635cb90799682aa",
+        "en": "d088d2bd0dc8bfd5a4100f09f36c7dbdc5edbb29ad230c98db089f22d2118e7a"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:readerTitle"
+      ],
+      "hashes": {
+        "ru": "7e00703fc124af6b8137a8e837002c72f8c2134aa7e204488138b5abcb549be8",
+        "kk": "7e00703fc124af6b8137a8e837002c72f8c2134aa7e204488138b5abcb549be8",
+        "en": "616cb218a65b982f61fd738e24ebe00d5a2ae039c0d386fed975a51d51b772f8"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:readerUnavailableBody"
+      ],
+      "hashes": {
+        "ru": "91e690bfdaed190828f6011c2ef0f147fd8ca4cde78b684f7cdd5ff1b2483cbe",
+        "kk": "d23934a42ae72ea68aeb4e583f320bdc097a68eea985ce1583f3bd1f96c8d930",
+        "en": "ec19461cf23e512f78a933748b0bd02f704f5f664bc638a8e2dd6eefa459e1e0"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:readerUnavailableTitle"
+      ],
+      "hashes": {
+        "ru": "ac81ebecb511411535def999d239103f039149af76a4a1682347ebe0fbebf769",
+        "kk": "b59ee12362c69e9fd447b708318c33596d21761f46e43948be94cb3101c16fa6",
+        "en": "bdc3614fef426f1646614d63ef32202ae3209e800030217e95e9d5e1d89b2df2"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:relatedArticlesTitle"
+      ],
+      "hashes": {
+        "ru": "d1930762f6c0d4144f73698ddb81da1bc55bf9437f7bbf469f2e69bc13061667",
+        "kk": "8252a6ce28a0124b86d75d0ac97459bacb14c22408b79078672dbc619ca4799d",
+        "en": "653c98b61dec26294559daf8a44a81ce251323a9fac28553cf92505cf45659f6"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:removeSaved"
+      ],
+      "hashes": {
+        "ru": "e6083a247f6efb2cb9d698e44f1d1557165dd2d34c47eb30eff961bed3bbd68d",
+        "kk": "53a4a1ce06c0e630626cdb394a4d8fd08c805a07c41e69739d506e666eadb7ee",
+        "en": "4115ec23ac38a4a9ebb944b5170064158d69b2edc2a5733e86f98336dbf1426d"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:retry",
+        "LegalLibraryScreens.kt:retry",
+        "NativeAssistantScreen.kt:retry"
+      ],
+      "hashes": {
+        "ru": "5189135a6110bd31b69bbcb3487109995252165ac7ee7da59ead9d789f690248",
+        "kk": "444a12283520e16f715eb630f08dc178bd44a64bf3f99d77dfd05012f4eea2f6",
+        "en": "d8b8392e2c542950ca64867168e4ef87d4ad606882d5898f826b51c6d553988f"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:save"
+      ],
+      "hashes": {
+        "ru": "b4d30cae52894cf0a87c1c072b864768dace8b01d2d800a9e8741a6f1b50791e",
+        "kk": "bf9f848c75b4e3416069b54045e6ae718556cd29f1105fa7725dcc0a41646222",
+        "en": "1509f561f2416598629b886ad7d3c05a7e221e4e0675c84bbff4ee6d9e03913d"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:savedEmptyBody"
+      ],
+      "hashes": {
+        "ru": "90dbe67e0900d547ec9e484313170228ace27ba9890b6b95d32a0afbb3543144",
+        "kk": "d7319efebb50a4381a438d24db231e9fb4422c2fe06edb660241b736c7a8ca42",
+        "en": "21f8672be43d42bc0553654845c5c5573dcbcdb650daa871dbfdc3366ca27f08"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:savedEmptyTitle"
+      ],
+      "hashes": {
+        "ru": "aaa4426d503c19af0bf9f45f041a83be3bdc4713af89c2bc4d25b69916073f72",
+        "kk": "a3dc8be32cc2b93d2fbe59205985a11e171888d47c144a0b8f28e0cf5966c9b5",
+        "en": "0164e233b09db6c22f9b6d198338daf11dc0b189abe5d927cd34a0a730405ab1"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:savedNextStepTitle"
+      ],
+      "hashes": {
+        "ru": "65e8d4d6343cf85d4c54b8ee6d88213bbf7f424ce5990eb6bae1ba408e28ec19",
+        "kk": "2ec76621402f5c300d7ad6ee5972ca630580b79ab308ca6dca0fec92c85c10c8",
+        "en": "d4c1494a533a76dbcc0ad8c603147a48c0c4cc73b176a4892870152bb1f52165"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:savedSearch"
+      ],
+      "hashes": {
+        "ru": "5027ce55f49468416221ee5618897f9ea22221136d128be5aa884962d8b928db",
+        "kk": "9abdedc106f7443695cc7812d1877021f9858f59524738326bef1bf005fa2963",
+        "en": "3e0d50f0937d5ff9aca39ddfcbba68df5bc83922ce76b0579d30b5d2e506006a"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:savedSubtitle"
+      ],
+      "hashes": {
+        "ru": "b1c076502a9a7ba449a13363ca92cd482936524af84b2cd8239b34003e640eea",
+        "kk": "eb18f12ad9e3cd69e4ab2224bc5c3affc0e1e1e9f206ccec71a49da60a364cbb",
+        "en": "c317bc0f4df922672e5634602f33a061e44754485a416dfbcfd28efdb62a0b31"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:searchBody"
+      ],
+      "hashes": {
+        "ru": "748fc46f325707e3f129e4a1627bc99f8667fdcf0e47e9cad806a03a86a2caa7",
+        "kk": "8a7643fedc6175c10257bed6d1b0688d182e3258eb66f6a2dcea7e1e9a3ffca9",
+        "en": "68dc89350eb76a1cba80340dfeaa3d45e33791a74ea0195d1c4f19b5fe63f1fc"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:searchFullTextBody"
+      ],
+      "hashes": {
+        "ru": "a7d8565da69bdae5ef5679be6abef924d280b6b713e8146c745267453db3cde3",
+        "kk": "f47dd335f11bc70275ede33f41d9aef8d71ac0ccd03311a41cf00693e16afbf1",
+        "en": "09009ef70d25a43aa6fe571f00bdb37cf058da6b6d584a313aa3a27af3f7e1c3"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:searchFullTextTitle"
+      ],
+      "hashes": {
+        "ru": "e0b91d8f2508c71b0f2f95f2d1c3ef6eed26ae74749083e562ef8bcffaaef7ce",
+        "kk": "71c6c5039d568bb60536c3fb2b744beeb714ba5ece66faddf3b56b9ebbfb354b",
+        "en": "3615490d42cdc6024b7a98f1ef5fc02a9bb97d26aae7d4d77f3a8652c5775202"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:searchHint"
+      ],
+      "hashes": {
+        "ru": "7ad37422f9a4a02840095dfcb0b22c851e916c6e0779a19c18fb0b1eec6c17c3",
+        "kk": "96b276b798aaadb2a037be257bf97ee5932a4a66844193506527cf0dc5a2d2f7",
+        "en": "716b66725c6fce34c97739cffed7a5d66b0842d7ea28c96669595e43490e68b2"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:searchIntroBody"
+      ],
+      "hashes": {
+        "ru": "3804e23df1139d5c9ae4380ce249ae040887575f523f61dba8ddb3d2981ce904",
+        "kk": "1cca7ff4b83dca4ad06cc834b782ddc1417ecf6577c9e320e890778986f9017e",
+        "en": "865aa2903f165809ab3f86b42ef8a21f97536350d2a796ad144ca513db20a858"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:searchIntroTitle"
+      ],
+      "hashes": {
+        "ru": "a4e7a6fbfa51523562cfbfe6d4249f592ce3fc3da80f5c41085adbc35f1aa2d3",
+        "kk": "e5ea7375edec8fced844fdc3cad4c22ecb22554d27b0fa0e78dcc6ae2d7b1854",
+        "en": "187a7524ab752d2c3d1114ad99a1c98f38a570dc2fe83507ed96604b4297fbcf"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:searchSubmit"
+      ],
+      "hashes": {
+        "ru": "be6156b8e4de367aad94bad1d2e1156c5b43f66c426f8fd2f6cd3a1fb7ef753e",
+        "kk": "c68dadc0eba77de0431f40588ba8b78043be20121821abd95a9ef52150a0ff57",
+        "en": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:searchTitle"
+      ],
+      "hashes": {
+        "ru": "028d2bc4d6ed31d9d63702429b09de31e45cd94bea893d9e8cd268f8683c1c3e",
+        "kk": "de05d1b9d695f2db68ac5f5906a7a4c4878ed785869dd25fcac2bb0849e3884c",
+        "en": "7433a3f1986d30d38e81cd7be377f560cf84a64436544170d1b606ac68c4be29"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:share"
+      ],
+      "hashes": {
+        "ru": "dc120821c212b41e01ad78e7fa8ab83ab684997b78ced61057f9733f2eaf7e33",
+        "kk": "078f76752fdaf0dfc6562164d171de65dc834c41e6e9dabf528433ed329db458",
+        "en": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:shareTitle"
+      ],
+      "hashes": {
+        "ru": "5440097a83cf6efd1d8f85f50de24badbcb94a9672d6c196e3825e27fb509075",
+        "kk": "be8e05705e1df5230719e8566ef6a45e9b29ba8a92daa42f5dea08c2f3546a5c",
+        "en": "5d32c6445083dedcf95e644a64cc9c630f1535fe70c2f55bd36b479179bb1db0"
+      }
+    },
+    {
+      "keys": [
+        "AppLanguage.kt:sourcesTitle"
+      ],
+      "hashes": {
+        "ru": "2e68c0f56507b47e49bbd9a7aa4a09f959d64be858acdee8072b36f7a98cb011",
+        "kk": "d1c9bfbc393dc81da29eebee7fa5a26238c275a1270cd79848962a2afca254ff",
+        "en": "969fe3225a3de2fdf24c800bb9930268308e02c7d9540e1b5ee23176c81213f1"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:allFilter"
+      ],
+      "hashes": {
+        "ru": "215816bf42103f1f2b24c168779f1fb0ea3afcb7a2c627e42e0bcd7fe07eb70a",
+        "kk": "10729577134b797b0eb0f8430eea452e0d113e9adebca4948fa66a1271260121",
+        "en": "a52ace420f2175d08b1577a1bea5445e36801229c074ef9ed6c55a73401fd9c2"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:article"
+      ],
+      "hashes": {
+        "ru": "9378aca54e00c1314c055bf688eab754128ea96b41297f3daccd7c481975d45b",
+        "kk": "b2a0c51f384c419f4e4063b69e6946d367b059428488a78f501e838415a864c9",
+        "en": "f6b2bc262da9e6b5c8e04d7f8e78448daf34edd91002eb45ebe3d7b88c72d97f"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:chooseArticle"
+      ],
+      "hashes": {
+        "ru": "75a370feb081b35d6f24537db994c36cb590cc628bcee8374623a4c4001d36e3",
+        "kk": "2e2567a41d5207158b7f37f186379e993052407a59849dd283c4c243a6c23708",
+        "en": "75717e86dea4f7763e8a40ea17ecb9c3b20c046b12ee04ff400ea95732ceda2d"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:chooseTerm"
+      ],
+      "hashes": {
+        "ru": "17ded3a1ebb78ebd31384d86faffe3cc2a3b2ee351bbc914a0f263970f17f1b8",
+        "kk": "55b28839e7e4dc367afbd63085f5fd38e44575a5be5fa08aa1cd340c7cd73570",
+        "en": "6bcf0aab77f9ce6f1b2896d4f24244c3fb4752f86bfc02ddcfd29f29d4437758"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:collapse"
+      ],
+      "hashes": {
+        "ru": "36c25d9ffcfd800aae3298a86e018cf15f488957bed2eb2b171a682495a98a04",
+        "kk": "c7dda6cb9af18d5ae836e22d36da64f6a0cd42d68e152f819d011f40df274018",
+        "en": "be6eb1fc3b05bf9dceebad2eac7841d1b2f40bda9aa2da34df8ca22af02bc3ed"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:compareIntroSubtitle"
+      ],
+      "hashes": {
+        "ru": "bb83eb8c4dbe702ebbbcaf23cf768b2ad756a4ece616fadc0f6f4fb5cf33902d",
+        "kk": "6e392d05d37e1dc3a7b0e009accee0bb873508710b35d5921b7ebc73e8d1e9a9",
+        "en": "fb1e0854466bb9773599bee6ef9248661c879f3599d3568f37206628b85d131f"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:compareIntroTitle"
+      ],
+      "hashes": {
+        "ru": "0f545efb3671a14d274707bc4a08bb2447b8df3ede1d42343e017a64f4d0a5b2",
+        "kk": "d2e83a767e71414721d19d5055f4a6ef573aa054298c421f15cbcb560af95529",
+        "en": "1a796d164e0c6c549ec8e5a47aae7720b627f12bee8661b9d6e581c62fdf06f0"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:compareLoading"
+      ],
+      "hashes": {
+        "ru": "2cf450590bb98612a8e7e4e6258b44abdc2b65312f5e0b091b3611566bacba00",
+        "kk": "54b908462f6a387c9e60e5d42da4a9f83d94913ed15308407a64ba109dfef0c9",
+        "en": "2fa2a5889917c3c45463717535d2e598eb34a2b7063f7ef78c8089bd2b0c201c"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:compareTitle"
+      ],
+      "hashes": {
+        "ru": "3c20a5701d5c3e1e7280b2c21e328f81ef1e2f0e5f6d2b6b7c242fbfaff55396",
+        "kk": "04d75b08a3831a21fd4ce0e36ccbc8b6256c2a9be57fb58e8ab564babf6a55e8",
+        "en": "ae71a49496e4451e49d707940173f56942653ff21985eac4f9469494ce2a8f17"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:disclaimer"
+      ],
+      "hashes": {
+        "ru": "12a24727393bb318c35951bec0e956308ccb9b667fb8f08336b595e5818dfd89",
+        "kk": "9d9f75af103ee4884a51b15f9a574a80128787ce3047b63b440b78a44e48a9f1",
+        "en": "8bca92a5a5edb13f8df4a77c28872071a8a89d2a9784a5abd54f55e3af5e42d1"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:errorTitle"
+      ],
+      "hashes": {
+        "ru": "66680674e270a6179c08268d5834f6db4832c756c3a801bdc98908b3a1acefca",
+        "kk": "3d51cfdc7467ab9626f1ad62b906df51814f5a2357a44bcc471bafde77d6125f",
+        "en": "e3ddaca205cdf9eebb7e11835821b917cd9e3f0ef8831300eccd39632d57f622"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:expand"
+      ],
+      "hashes": {
+        "ru": "5a24191433348d88d6dbcef71f049404ce906c841c1b3e50bbc128d8a979ebf0",
+        "kk": "e375dcfb4fb82774aae90159a4eea834940d95104ac29018470831578551d16b",
+        "en": "07548c2c6511d4d1780564de8a237a1966cf9c99a97cf5c8a185e6c2aeacff09"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:fullTextCount"
+      ],
+      "hashes": {
+        "ru": "c336cb8be70cd0c965c8bd40ef2f3429e87398de8d5a9e4868f4937697ab2af5",
+        "kk": "188e4e246c7d21831c218e6f0ad5a71240f1816a9e1fc67ffad07b984fd4fa0a",
+        "en": "d8d5d31253d3ff7c2aa1d9fdba2cdfd0aa919481451353410b48df5acb8d399a"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:fullTextLoading"
+      ],
+      "hashes": {
+        "ru": "b2bd5b4af15e54d7e05f2a6e46709adf5285c44ec94bf797137ef6613fd54070",
+        "kk": "a5fcaf2a1e43b4f72246e03e2e29be5becc7a41b8af2bf176b1852ec695a1942",
+        "en": "34b969581973a3a3908bb020c0db14831cd2b25dc0fcc254d68143efd61445d8"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:fullTextSearchCompact"
+      ],
+      "hashes": {
+        "ru": "0e8f40cb46abacaa677da9ed6809bfd0d2c8ef642ad33860a290879f2a455ef1",
+        "kk": "79cebe4e696b4aea330f991aa6081bb31f048f522bc9ca12813371bde8038d3e",
+        "en": "68e2cbb33f16dd86d6dcd5e44f8df6147bf4a236dcc13ebb33ebd8376f565d27"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:fullTextSearchWide"
+      ],
+      "hashes": {
+        "ru": "f2db9eb40b15b5f4eecea99798a24a756373cc369f37280f703351ee356f8ada",
+        "kk": "f26d776458af7fa1b3d523a8d8d9e8325f953a06ca59a6f98c3922416d4b4b75",
+        "en": "860ba5c6b45625988f05257c6a04143b67104233d6b96f918cae12ad9ed9ba29"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:fullTextTitle"
+      ],
+      "hashes": {
+        "ru": "4fb1bd3054815b9ea96eef142eb31e4f1d24a89b4f5308d1fc39c634ac8fa060",
+        "kk": "1bf5b4a43acbc75cc61925c99255131a922fb175f61eb0d78754d962a692960a",
+        "en": "9ed54584159ceee17b350f1bdf53f70af48d59091cfc8b37bcb17d61425eb16e"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:glossaryCount"
+      ],
+      "hashes": {
+        "ru": "7db53abd989768526b0516146ac5048dd66e92c15222a3d9e28d7bc96c2106dd",
+        "kk": "46b6f9fb19613d30f3a886cd9a8b322f87c7b1b9abc144d8ce96ccb21a72738f",
+        "en": "d753d3aa7137efabe8dae3977a47faedb3d1c4b9026e0a8165a7b6bbaa3e7e9b"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:glossaryLoading"
+      ],
+      "hashes": {
+        "ru": "a7fd5daf3ea6496e019276355f1fb934e4b25ce0c188d42ab87efe1da449a2e5",
+        "kk": "721e4c98251682100e9f11c2d0a6c4885731498a1da3d0b186335772bf9242b9",
+        "en": "7a72cf31cc3f8f163ae0b3b79568480c953725535df648a90a59ba256384e670"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:glossarySearch"
+      ],
+      "hashes": {
+        "ru": "1fc94f328493122ff5d7c771883c90f2d4f5c6a30cfb3b0c75dfe95222f0a55f",
+        "kk": "03afd8a61c3c3bcf5ba6aa93766ddad036f20315391ee72c633b01030a666b9f",
+        "en": "9e29eabd098fe02b8f31efa31ce995d8c8b058ca4e86941b735eaabc5f52a57a"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:glossarySubtitle"
+      ],
+      "hashes": {
+        "ru": "9ffd487fd45d312ce98a966f6e8b3c5724b0db1a097a020203c9c3a8159eb597",
+        "kk": "1ab7f610c028fa99d160a5d6570b1fedd6ea6f2beec93cadd6beac889c0b6d8f",
+        "en": "83769aedc0459ea7138006f6d6b239418de2f71eefddd31a8ad61f306badf0f5"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:noArticles"
+      ],
+      "hashes": {
+        "ru": "4f233fc7cc327c2fa35eede526f8f98f67af4fbae2f9d9a242fd1b1de339d40d",
+        "kk": "1721eb10094ed39eff7bb558b2c54a8fd966522d18062488547372801560ef64",
+        "en": "82027a3563849b213553e968db7e471769097445a203483f31a5672c61a111a7"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:noTerms"
+      ],
+      "hashes": {
+        "ru": "f77814e80be928dfdd1328ff1dc9159defaa336057179430476a2c90f1d97bb2",
+        "kk": "658e9b9cab83fcfb8a8e5c283263909df7c2304b295424a69b1bffc4a425eb84",
+        "en": "484f08e7be26e0e4f80b8750f6f0ba65e32c7ff837219e197af0157c628e86f9"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:offlineNotice"
+      ],
+      "hashes": {
+        "ru": "fc5452077eaa333ae5685f89b4221d19c2c5af11713dd89626850935f314c331",
+        "kk": "0660c7dcbe11dd6a6489065176d93e686d1e1b0cb5a9b465af0f6cd4b41b3875",
+        "en": "0ad47206e99861607bcd2a7fe1813aa6841faaaf85862e7cd08055e9e63cbe20"
+      }
+    },
+    {
+      "keys": [
+        "LegalLibraryScreens.kt:preamble"
+      ],
+      "hashes": {
+        "ru": "4ee3fdc559e0e812a1736ef10029edab7dab028f0009d4e92eca679c2298d3e6",
+        "kk": "dde97faccb6fee7057c01979308f435e41e6ac062d8fb03d70b5973965b02770",
+        "en": "59e371c5cac498cc5ae8361dafb8f60b4023665a8fb606860a289dc3d399a8dc"
+      }
+    },
+    {
+      "keys": [
+        "NativeAssistantScreen.kt:composerPlaceholder",
+        "chat-widget.js:placeholder"
+      ],
+      "hashes": {
+        "ru": "7936262a86a63fefe064de91247ef6d846d7e248c6a2dc9ca798221974e77223",
+        "kk": "24fa3b351d1def1cd9a574376913aff321594b06e6103eccbb83a08365567bf9",
+        "en": "7d5d987da0a5b403010cbe25661fdc54812756c23933ea625705b2fb63e10f73"
+      }
+    },
+    {
+      "keys": [
+        "NativeAssistantScreen.kt:connectionError"
+      ],
+      "hashes": {
+        "ru": "cbc084bca7151555e097c00fcf0f942b39a9f9adf77e55b3474ca0dbb2ce8a5c",
+        "kk": "2d7f685068ce703af30ccfeb3428ee3757dd4f6c6269b2a2736cd1520fc554d6",
+        "en": "e7703f18d2640ce11251a5f28434d371fd518c12f41bb69ffd9ade3777638f1e"
+      }
+    },
+    {
+      "keys": [
+        "NativeAssistantScreen.kt:disclaimer"
+      ],
+      "hashes": {
+        "ru": "d2fd39eca72d1dc7d6d9aa2a60800f8c2cf730d6f6008262a38cc46664390783",
+        "kk": "7737d52a63ef0ee006fe4d01ce6c14d146df7d5b505dd548df2ecdc1c5bafda2",
+        "en": "baf7cc609107aeb907b139bee5cb09abd2da1bd42aeb282be266a47cea3dcbcb"
+      }
+    },
+    {
+      "keys": [
+        "NativeAssistantScreen.kt:noAnswer"
+      ],
+      "hashes": {
+        "ru": "ef4cffea391eaca2cea0ea4590407242e2e6bd99e61caa270b81d5c6ac1b7c3e",
+        "kk": "1071b695e667ae30f9cefa45da85b7fa3582319628dd1fc7b8e9e96525133b8f",
+        "en": "0d588b046558901399eb2cc74b2ab7f07cd91cb8a4c946b14fdf80bae651475b"
+      }
+    },
+    {
+      "keys": [
+        "NativeAssistantScreen.kt:openSearch"
+      ],
+      "hashes": {
+        "ru": "16f97ee71017bb3a886fbbe230e2bf88f40a581067a0fbf23d8ea6fce98288fb",
+        "kk": "7f6ea7cac65bcc69eec711f06a6b8896dac810fbdc70100857a166bbcf814b13",
+        "en": "4597cdc8111fb2f8fe4cfce2cffda092feb89919d70ac944e0d356de0199e92b"
+      }
+    },
+    {
+      "keys": [
+        "NativeAssistantScreen.kt:searching"
+      ],
+      "hashes": {
+        "ru": "9493f60ff81ce58b062facec7f37cf7887207897a4f70ef4acdeaff62b5083f6",
+        "kk": "aca25d60448ee9b36d9db57874fa85f94fa4fea6a60294b262353bb8df733b12",
+        "en": "58a286c5327a602387d0f31e7b2372e931984a50d972a82ff7d68e8395949d59"
+      }
+    },
+    {
+      "keys": [
+        "NativeAssistantScreen.kt:sendQuestion",
+        "chat-widget.js:send"
+      ],
+      "hashes": {
+        "ru": "08bbfb867f8cc8c050ba7d4bbf962353d12e37ec1b64427411a75c83f63a1818",
+        "kk": "5a2293ceaa03e82eadaab252b4793591ae4a85500da4ac48db6b66b77ccc3b30",
+        "en": "ec075128ebd3170530c4c1fc41252b1f1be3dcee28152a7fac036dadd69a05f1"
+      }
+    },
+    {
+      "keys": [
+        "NativeAssistantScreen.kt:subtitle"
+      ],
+      "hashes": {
+        "ru": "9f9f531b0dc65b62279058a87023d4f4e180895e5b6bb735ade2be693cd5ccf9",
+        "kk": "da8992503518877c25d258f9dbc05ef6bf69da21ee81afaccca3589bb413c77a",
+        "en": "c17d38f5a463980b7f8ad2d3d5caf2c3b1577bf55dfcc6da5aed19393a012c74"
+      }
+    },
+    {
+      "keys": [
+        "NativeAssistantScreen.kt:suggestionsTitle"
+      ],
+      "hashes": {
+        "ru": "16e5e98894f51bf8e6e70dbc7af8d4e963c9b2c5865a4db5801fde7adde083fd",
+        "kk": "0542b825d5632380c973053bf2b39c7d24497eddecb36d3dbe537a99f045b813",
+        "en": "695b5a73b62752bf3528d1b307cb2e2fff41e1fc598775cc057e41fbdac3654e"
+      }
+    },
+    {
+      "keys": [
+        "NativeAssistantScreen.kt:welcomeBody"
+      ],
+      "hashes": {
+        "ru": "6c4d42414d228aa2c408fda1c1fb0487e7a0a2862d76c361b7d16738c79345ff",
+        "kk": "d337b4c95180f5d3b2a7dba79ff629bc60930867c2de1013cfbbd8b366717a53",
+        "en": "910e28c66ee23daa26d41db31d047af5c84bea4a5624289f2399e9ebae1ea590"
+      }
+    },
+    {
+      "keys": [
+        "NativeAssistantScreen.kt:welcomeTitle"
+      ],
+      "hashes": {
+        "ru": "0943414ccbadc43fb5895c2b85057354ccf4d2c837c35f14944e95aaf4ae4490",
+        "kk": "f9a6df77395a9bde87dcb8aee4d90a020c9f1808ebe7a179983d432049b7d6f8",
+        "en": "75a31c8191d6bca993923c70d007b50c82f04258c65e9491bec86e6382ef732b"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:close"
+      ],
+      "hashes": {
+        "ru": "33149623158249b9c198f182ece4840c7d3ccaa68c74eedc6d40b3ab67b3d557",
+        "kk": "56f0c8d6c94dfcac6be2f9fab1f4cd8eb346848a629e8ac83f21710505c7ef7c",
+        "en": "5ff71d6b661cbfa1ef915cc91f223ab20dbff6b95267bf8ecf44bb0278e03ccd"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:disclaimer"
+      ],
+      "hashes": {
+        "ru": "249802afeb9190b799271e751e3e6d5d7e273fae59001032b6807a486c0b5ca2",
+        "kk": "6f80929f235848a029f9e2ce8f8992a87043e491256911f4b329e8e3d351fab2",
+        "en": "aef431a9a87192d1227a7f47b1be5507f228219ab795a31395b02e5f2b297a07"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:errorConnection"
+      ],
+      "hashes": {
+        "ru": "119f4ad16eeb9188ec1a5a47f8e15efd29b56fc6d99cf9ba3cfddd409d2edfb5",
+        "kk": "bfca9696982a12be13ac3beab3e6f2e497841c96ae8eb0326cac5d6dec320d33",
+        "en": "8d137af9c64fba09bbb003aba93f0b029898fe19e7927cd696f4c3e2b69f538d"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:errorGeneric"
+      ],
+      "hashes": {
+        "ru": "bf22dfeeba8b85081505bd47f6c08ec80c510d3ca254784edcd0ffcb449dad5d",
+        "kk": "63cf8646420641d94478e9d2dbc865a82cb28d1013a6f0c1fad4b11c67e94a09",
+        "en": "54a0e8c17ebb21a11f8a25b8042786ef7efe52441e6cc87e92c67e0c4c0c6e78"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:errorNoResponse"
+      ],
+      "hashes": {
+        "ru": "ef4cffea391eaca2cea0ea4590407242e2e6bd99e61caa270b81d5c6ac1b7c3e",
+        "kk": "1bacf19214f57c150017b194b7d5028281912b0bb6a855c151c7f635d4c52b95",
+        "en": "355b18c99b16304b963e65839ec7eba0c35276d191b4d1fac0bedf2a4a62e3e6"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:errorServer"
+      ],
+      "hashes": {
+        "ru": "541dac4dbfa35c7ea2def9f82a7b0892f78ec7426b3f412ba52bba74498f93fb",
+        "kk": "1278f118f97bc2f9554cc84a02af2d09cc034eddb7a04503c36444d662544833",
+        "en": "dfe0c2e802b1ff632ce6e3b43ea8d6055b4db02c3b52e6871a72b05e9cc76d5e"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:fabLabel"
+      ],
+      "hashes": {
+        "ru": "3091695470c15f719c6a4ed4a6feeb979f350008a9affc1414522378a1dadf95",
+        "kk": "8c4b71951be7ecfed6bb13a5916f0627c3be173b7dd94b7d833f8e4d419c0353",
+        "en": "dac180fa4705ea9809a575f8bf2eae56570e17004c2789e91941de947388cdf2"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:languageMismatch"
+      ],
+      "hashes": {
+        "ru": "b33710cad371fa305b2c6ffe0687471a500d13e55f33e0b70685061d52893409",
+        "kk": "5daea6971a4d9703ef3260c5570c748ab437613fafabb86accb7d1998d634919",
+        "en": "4f190f51a3ab39e625242798f5a56c75024641ab88cf928f993a7a9a26db41fc"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:provider"
+      ],
+      "hashes": {
+        "ru": "c9f365e745908b330a38bb4a1af55feeecb79289d9067bb8ce7a4969e0250a9d",
+        "kk": "ece9429b0b78d48b3152eeb002c28eb49195cffeaa363a777af88eacd5e5fcbb",
+        "en": "241fbcfa704de2453f4e53e6da029bc7c8aad70c8e44c02e73eb03f1b5279c4c"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:rateLimited"
+      ],
+      "hashes": {
+        "ru": "9310e0e61fa996db2344016211e4d8d5a0eba0de24d76f6a3744e149d424251c",
+        "kk": "3bccda428b1a48c9e750c18d67fdadc1f541f0798bb97d745d5f43aea954c2bb",
+        "en": "352294b369bcb5daff01d467088a42cf9e27eb59af31dce81bcd5ade524ab5fb"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:retry"
+      ],
+      "hashes": {
+        "ru": "5189135a6110bd31b69bbcb3487109995252165ac7ee7da59ead9d789f690248",
+        "kk": "444a12283520e16f715eb630f08dc178bd44a64bf3f99d77dfd05012f4eea2f6",
+        "en": "942087cc2d41e01304b7195558d093d10c72af8e838c7556d6a02d471ee71852"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:searching"
+      ],
+      "hashes": {
+        "ru": "9493f60ff81ce58b062facec7f37cf7887207897a4f70ef4acdeaff62b5083f6",
+        "kk": "4d7fbe2dd261f42e0a4a68bdb99220feab7806ef9893e9c3237465f79638c247",
+        "en": "58a286c5327a602387d0f31e7b2372e931984a50d972a82ff7d68e8395949d59"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:seconds"
+      ],
+      "hashes": {
+        "ru": "a1f5d39a12e8f6bed437ee6c16fa961dcd6a5af84e1518290a577a029e7501e2",
+        "kk": "a1f5d39a12e8f6bed437ee6c16fa961dcd6a5af84e1518290a577a029e7501e2",
+        "en": "043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:subtitle"
+      ],
+      "hashes": {
+        "ru": "bb41a3a0df24606dfcf5986591dfc9740019420d3af86148ab0d266a6d6f64a7",
+        "kk": "74d6e77825214daaf5b22044c726b88bf4b9dba6a439fc8202ee0824bd144905",
+        "en": "ad682384d2a8945cb6dfbcb176900263d2d3090818193b454c70cd611a2fda1b"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:sug1"
+      ],
+      "hashes": {
+        "ru": "36fc058172a0773b104ee483e0a055a3b9fbafeed01558578ad529f60d840151",
+        "kk": "7bba6deec5b32a144e777ab91b00152e4e922716a1dcca5e053af4e7b55c9fb1",
+        "en": "bbd2697f7df284c85c6433eb6388a72635d2bc4746afe294f214580800ae697e"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:sug2"
+      ],
+      "hashes": {
+        "ru": "347b26b1d3af00ba5ee67ea818f22d7343e2ddbd3e167e4964268501cf6ea721",
+        "kk": "31198035eb75d3af19277b43850d728121f2a382726ff17d4f17bffbba07da05",
+        "en": "0914162014e7399ba1a7adb488afd2fcc113a1bdfa977d9c2ee8ac028fefebb6"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:sug3"
+      ],
+      "hashes": {
+        "ru": "b8d5528eb29b4aa9f5462e6c8e5d164c8aa635dafc868072be9436ebef7676e0",
+        "kk": "824d4e103a3f7e51678e04eef71dba6197dff15b7bc5d9c092e31aa750c3eeae",
+        "en": "24b57eee077618f1dd9fc5bbe48f8519c6a5e4fc3743c987b77eeed45b6c7d02"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:title"
+      ],
+      "hashes": {
+        "ru": "b798a37544b6a31bb4848c207d2751a67ec7ed83c5e5dec5ff7026a2f11c38f1",
+        "kk": "aace6f01fec962b0a4d9e86b3307279c4e73ef38ca3014c4694c50d095dc10ae",
+        "en": "0ad1b06f64f2d3ba35c04017a7f57f7fb63bdb3f355cd98c0862af015a62a94f"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:welcome"
+      ],
+      "hashes": {
+        "ru": "a6aabc7195a8905ccbeacd466bf60921d37faa3e24276eebe38e9af1988822f8",
+        "kk": "fabe3d6e1eb71c11108eaf775a65b31fe02a69260bb47d4335073cb7c1615704",
+        "en": "99c3461714bd30923e843cb81cd7eeaaaa618517ddf69eadea4cfaecbf93f384"
+      }
+    },
+    {
+      "keys": [
+        "chat-widget.js:welcomeDesc"
+      ],
+      "hashes": {
+        "ru": "3d0e238805467b7a007ede16575f566e9076bb8792a3c88c28200cb4f10c9cb5",
+        "kk": "f0ab31f2c5fec36c9c2689554f79291065e6762b902c230d95c72238ad87ade6",
+        "en": "6cc8e7b51c9ae5615cbcad84175882f7fdd609a2991f6e7e78f1137e8fdb4b97"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:about"
+      ],
+      "hashes": {
+        "ru": "d09828b0005f320b718a9fe54a325d0152aeaca24a75d0ed67274ecc10fff61d",
+        "kk": "ffab419e7e53ff7617e894614b6ff825f0f40c22dd40ba5d81dab3c39522bfaf",
+        "en": "4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:assistantLabel"
+      ],
+      "hashes": {
+        "ru": "03d7fc85048f0761d0d45e167d8b53d4c04f64746745e346015dd4311843b968",
+        "kk": "44e8221600f8c3084d943d3dc875d762ba4ac000fd20d77ffc0d6a04fc75d9fe",
+        "en": "c2f0fac9c45ea75009bd76b077c89e001df4cef0687be786034cd29c319ff66e"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:badgeCurrent",
+        "i18n.js:current"
+      ],
+      "hashes": {
+        "ru": "b17fde534b74e745af978c60717b52a7d8212b72b18d709a30fdf781b4bfac47",
+        "kk": "9c46763034e3070f8ae4ef795b03e02ab66c6596cd7aa93164bae1f618fd7ac5",
+        "en": "e0d1b68224bf0b31ef16b206c65b5f8f6b89d18161f4a7cdcb8d0ac8d952549a"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:basics"
+      ],
+      "hashes": {
+        "ru": "da8cd89d60895765c07b149c9ce48c4f1b24417d822e3d92d4de030d3a5d76d0",
+        "kk": "4d15ab8d9ccfefa713ad102f29591c91f6e88c10ba814a8e3d97331141e87c5e",
+        "en": "6d06fe2673dde90842640cda5a5bcce2ca4c1462850b9e691551b0638b6da2ee"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:compare"
+      ],
+      "hashes": {
+        "ru": "c2a9007babf249f4988749b65168031091fbb0954bd15974ff7767f2b4e1b673",
+        "kk": "e06a60e3ddcb377ecb0618ac98f07cb5af6c428a62bceb4f5141f18d0d5a48d2",
+        "en": "e888155d8c7d2e3c3f9eb1bf57e8d81ba1a3c182b5e94b01e09de2cb2cca81f9"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:constitution1995"
+      ],
+      "hashes": {
+        "ru": "56d5f0e22aaaf9ee6f5899cf5a615e93222ed352496e17100bb5efc2cdec185a",
+        "kk": "c5e58c8cef928fb299cd0927e6d5b82be8a398a6446c5e6120e9c18ce67d1bdb",
+        "en": "e82de26e90f7a101c9df26e3aad046256d5dfef2e4603f41b7377f5276b2076b"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:disclaimer"
+      ],
+      "hashes": {
+        "ru": "00d435d882381cc3f68758bc5154a66f3ed22dff6d09e9bec71dabca96c0f530",
+        "kk": "2d774845dd9a04d9fe33a725d36b7e42874a995d45285a2da9fee8f895f4e7c4",
+        "en": "a008155628dbeead350638a7e3085e31fadbac72b7c31c6e7a49d118fdd3ca7c"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:fullText"
+      ],
+      "hashes": {
+        "ru": "3db10c82d2ee6c0a5bd9e47daf0fa2dd95baf6af38ee50d7c1a7b2dced6aada2",
+        "kk": "5f84cb62202b2415bbf4ccb725326ca5b11b2e82e45d848998fea87e77d9bdd8",
+        "en": "44d5e3d86866589c4c147a7a2969a4b40bd32ab15207c751c4abd2eb87ce3a66"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:glossary"
+      ],
+      "hashes": {
+        "ru": "9c052964cdd725d51910139741cf87bd65c7cdc933535c05d5443fc8e267589b",
+        "kk": "505cdbf4350b17ca2fc23c4f190b8906b3dd80fe84bc85f23d318b15633fe25d",
+        "en": "4c4e436f9a453c776dbf011f98d932d615988bb08bddec6051625340e88d012f"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:legalBasis"
+      ],
+      "hashes": {
+        "ru": "693a4425b7f8fa2d128c7cccf54bc790982283845df5fcbb4bd6512e59fe5bff",
+        "kk": "f8f8a233d4c181ca3e3beb23dc09f9cdd85d50a7fa6072bb950898ef991aec36",
+        "en": "f99ab164ae6f342baa7a11d5f0652ff418357d9d8c9e4b06f6ac5610aa66a919"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:navRoadmap",
+        "i18n.js:roadmap"
+      ],
+      "hashes": {
+        "ru": "68069c5ab04fc7f336bf6b05205300ae003d585d2c071604a3b900cb0bb55170",
+        "kk": "e87141053ce24c2e517b7baa819db86d60f14c67d7710d2a9a6c958f477ad91c",
+        "en": "a80a02f7d1469b81d4cf56cf2dbd656a6efeec0fb44b3893db887f4081f5a380"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:press"
+      ],
+      "hashes": {
+        "ru": "c4dbefdb74f6d4e3722524641733ac11ce078f86ac18d9ceaf98c67a4f84150c",
+        "kk": "70f3df763221ac4c54181c7d1737bae76ba203465beb61218b0eae7771b7b5e6",
+        "en": "01ca2f9c46249aa22e3799cf17d153efbe5a1ab4ccf4df4e2dc6bdfd8b7a42a1"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:themeDark"
+      ],
+      "hashes": {
+        "ru": "91938c4f36b2e63a61812c989fb74b8d57a9147654f7a5dde61cae4f1543e6e5",
+        "kk": "d25383050280826e59b140196ac76d5dca9a349d5334478d846f44c42b07718d",
+        "en": "8abe9e0ba6b6f3834c2e48d2f858557641277e2c17463e526685fe3f95967843"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:themeLight"
+      ],
+      "hashes": {
+        "ru": "db51ef1a37b706a5824f10b72ffdc1891280fc195ba040acfd7499a24dc4d58b",
+        "kk": "423e5b0385d08999c797f9bc8714a3d581b93cbb3d84d1a35d484699f0dc62d5",
+        "en": "2f740f4cf6888e99dfe73f3d6208323cb350b33a37016e1ae3367a90b3e93c84"
+      }
+    },
+    {
+      "keys": [
+        "i18n.js:timeline"
+      ],
+      "hashes": {
+        "ru": "24c7474a8433d4acbbf01bd7fbf3be8e3093851d181a1fd5a5a11e662a1afbe9",
+        "kk": "cdc8dedc990a313bac5ef03a70bf65b9f081a12dafbe7d1be05f34da008899a2",
+        "en": "9dcff98e275f0cb911f1523ef5c629c0aabe9e3b642a6b71ac7d2569e9717121"
+      }
+    }
+  ],
+  "derived_reuse": [
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "ru",
+      "source_batch": "C-001",
+      "source_id": "transition-what-changes-july",
+      "field": "strong",
+      "words": 6,
+      "text_sha256": "3f7c2265e22847465dcc2b6061b0657a95336810c6ff112294db69e018065b11"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "ru",
+      "source_batch": "C-001",
+      "source_id": "transition-what-changes-july",
+      "field": "span",
+      "words": 32,
+      "text_sha256": "73dc2ac10dede3c7c79a621f112ba0a88066eed4f3ffce6deec9d7c4b5089e12"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "ru",
+      "source_batch": "C-001",
+      "source_id": "kurultai-election-2026",
+      "field": "strong",
+      "words": 7,
+      "text_sha256": "b6354c95af0c70aeefeff5850e74dcaf758afce276f29f7e8dcd2463a74cca0a"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "ru",
+      "source_batch": "C-001",
+      "source_id": "kurultai-election-2026",
+      "field": "span",
+      "words": 40,
+      "text_sha256": "a1de37b00f8eae133345ead1ac42b5cbfc861d646a082f57df7e4ad1a4803e60"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "ru",
+      "source_batch": "C-001",
+      "source_id": "rights-digital",
+      "field": "strong",
+      "words": 7,
+      "text_sha256": "db480568829433fa6e10f6ffdf23aecaa1755486831adf27c176440c12468801"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "ru",
+      "source_batch": "C-001",
+      "source_id": "rights-digital",
+      "field": "span",
+      "words": 35,
+      "text_sha256": "469f33c6a01b598dbb8dcbe36fe66c35e5b43d8aa1efb6782024009a92fca7d8"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "ru",
+      "source_batch": "C-001",
+      "source_id": "rights-detention",
+      "field": "strong",
+      "words": 5,
+      "text_sha256": "fb8ce3d42d07db4dd8af6d3c58dbfd63c38a3b114cb6c76c7328b1ffab96c929"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "ru",
+      "source_batch": "C-001",
+      "source_id": "rights-detention",
+      "field": "span",
+      "words": 32,
+      "text_sha256": "4ad1700721ad86750d2e054b2e72e1fe18f626f14e1c13fd4f613da52f906e52"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "ru",
+      "source_batch": "C-001",
+      "source_id": "constitutional-court",
+      "field": "strong",
+      "words": 2,
+      "text_sha256": "e0cfcdc029acb39334a668ec9c1cf44f2379ef7124d566ec93bc3613d8350c12"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "ru",
+      "source_batch": "C-001",
+      "source_id": "constitutional-court",
+      "field": "span",
+      "words": 27,
+      "text_sha256": "bad58453628098baea448871e27ffe905d8a313c39eb479868f69015da4823d7"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "ru",
+      "source_batch": "C-001",
+      "source_id": "key-changes",
+      "field": "strong",
+      "words": 5,
+      "text_sha256": "7aa2a780df21812fcdef48e8149b9d3e9f7dcfc56723a94729c440933c9dfc50"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "ru",
+      "source_batch": "C-001",
+      "source_id": "key-changes",
+      "field": "span",
+      "words": 25,
+      "text_sha256": "93e0bdd5dd48c09a0a9a5816921a1f375671d29f6c05d1f987be55d7127a8de4"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "kk",
+      "source_batch": "C-001",
+      "source_id": "transition-what-changes-july",
+      "field": "strong",
+      "words": 6,
+      "text_sha256": "f726b7bc1c1cc4c92fb0f24c3e0dfd3984b5db3f72e8274a9b6c6c5e1492044c"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "kk",
+      "source_batch": "C-001",
+      "source_id": "transition-what-changes-july",
+      "field": "span",
+      "words": 33,
+      "text_sha256": "62c3e7025b9713fcf6969828657f07654aa63f3ee35f15354413784a7a24f458"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "kk",
+      "source_batch": "C-001",
+      "source_id": "kurultai-election-2026",
+      "field": "span",
+      "words": 38,
+      "text_sha256": "8d020a7bffe7ac69f5c8b9082c5d1a260d4d4ab470bc0c16a8b5c38cb0fa9a24"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "kk",
+      "source_batch": "C-001",
+      "source_id": "rights-digital",
+      "field": "strong",
+      "words": 5,
+      "text_sha256": "e2adea80b37e5b43a14e283674c4789d9603acd052141a7e4fd8c105cc6a59c9"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "kk",
+      "source_batch": "C-001",
+      "source_id": "rights-digital",
+      "field": "span",
+      "words": 33,
+      "text_sha256": "6fc059267152ac235c91310c15e693237c433ff7762438a5fbbbac398089412f"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "kk",
+      "source_batch": "C-001",
+      "source_id": "rights-detention",
+      "field": "strong",
+      "words": 6,
+      "text_sha256": "ef7adb82ddaa293355f1f681c5ade99e3d99d047d03f064160582a54c267c5ec"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "kk",
+      "source_batch": "C-001",
+      "source_id": "rights-detention",
+      "field": "span",
+      "words": 29,
+      "text_sha256": "8c51b6af16ae67b7162a631a1d0c5da1de25737863b89d30a1019059bcd6c232"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "kk",
+      "source_batch": "C-001",
+      "source_id": "constitutional-court",
+      "field": "strong",
+      "words": 2,
+      "text_sha256": "96903cae852c208b9c42f703d3b6516e86c95327fc95b95d6fb5c610a1097976"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "kk",
+      "source_batch": "C-001",
+      "source_id": "constitutional-court",
+      "field": "span",
+      "words": 29,
+      "text_sha256": "4bfb7c6f0a41a4e35ef7bbb046c4a9183eabd457313cb561d4b7bf69637ffeef"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "kk",
+      "source_batch": "C-001",
+      "source_id": "key-changes",
+      "field": "strong",
+      "words": 4,
+      "text_sha256": "dc0216f1773935fab85e352aa956e32b5462dcf4cbbf9e5360e73074497f064b"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "kk",
+      "source_batch": "C-001",
+      "source_id": "key-changes",
+      "field": "span",
+      "words": 25,
+      "text_sha256": "db6c6e4bdbf6cd85cf7a9148bce14e4fa1553311ed0a681eac5575326ab6a93f"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "en",
+      "source_batch": "C-001",
+      "source_id": "transition-what-changes-july",
+      "field": "strong",
+      "words": 6,
+      "text_sha256": "2bd74f4b812b29889bab7758a71b4d91e5145ff7431553c52af27ccb95a2b511"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "en",
+      "source_batch": "C-001",
+      "source_id": "transition-what-changes-july",
+      "field": "span",
+      "words": 44,
+      "text_sha256": "036b9d8ff58a8aef6aadbdf138f10aac11abd04574969b545a182ad54465451b"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "en",
+      "source_batch": "C-001",
+      "source_id": "kurultai-election-2026",
+      "field": "span",
+      "words": 49,
+      "text_sha256": "dad82b3e623a7ec1fd6b9d6614499e7d4f1a5308e543006524efd61a9466f8e7"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "en",
+      "source_batch": "C-001",
+      "source_id": "rights-digital",
+      "field": "strong",
+      "words": 8,
+      "text_sha256": "48d7fadc6a1126bdd5cab1f2859653c01b6b03d37ff9dd6ee238c957404e355d"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "en",
+      "source_batch": "C-001",
+      "source_id": "rights-digital",
+      "field": "span",
+      "words": 45,
+      "text_sha256": "d503985c2c3f167951e67aca5ea5017646f8aaf86c9080799360500f68501228"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "en",
+      "source_batch": "C-001",
+      "source_id": "rights-detention",
+      "field": "strong",
+      "words": 7,
+      "text_sha256": "52ed5280ea483ac4bb8a0b2710e95bf5038ee97c1a788e3b50941cea308cd99d"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "en",
+      "source_batch": "C-001",
+      "source_id": "rights-detention",
+      "field": "span",
+      "words": 36,
+      "text_sha256": "e7a8bbf457c5b1e64b06b11b8ccc7083aef1115df0282a8966f417ad73292598"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "en",
+      "source_batch": "C-001",
+      "source_id": "constitutional-court",
+      "field": "strong",
+      "words": 2,
+      "text_sha256": "53e9a2f0203d60a8e816784f384949554ce13da364a95e7d747879338f8b34e3"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "en",
+      "source_batch": "C-001",
+      "source_id": "constitutional-court",
+      "field": "span",
+      "words": 34,
+      "text_sha256": "114f91c1954496d7177eaab38296d7f8667f922bdff4d271d0ced69b8812f6b5"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "en",
+      "source_batch": "C-001",
+      "source_id": "key-changes",
+      "field": "strong",
+      "words": 6,
+      "text_sha256": "04990424f4fe88ed8a70c506e7e7fc12d56287c350bb4769395e1f1260922914"
+    },
+    {
+      "batch": "C-008",
+      "id": "tools",
+      "language": "en",
+      "source_batch": "C-001",
+      "source_id": "key-changes",
+      "field": "span",
+      "words": 40,
+      "text_sha256": "6f2585dad96a8d7e36ddc22735eaa31795e3cc17c242cf9cc015255777902215"
+    }
+  ]
+}
