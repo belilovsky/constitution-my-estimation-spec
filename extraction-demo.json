@@ -1,0 +1,18 @@
+{
+  "schema": "constitution-extraction-demo-v1",
+  "notice": "Synthetic, non-legal examples authored for this demonstration. Not Constitution.my content.",
+  "records": [
+    {"type":"card","id":"demo-folder","language":"ru","fields":{"title":"Синяя папка","summary":"Откройте справку.","content_text":"# Синяя папка\nОткройте [справку](https://example.invalid/guide). ![Схема папки](https://example.invalid/image.svg) <b>Тест 2026</b>.","canonical_url":"https://example.invalid/ru/folder"},"expected_text":"# Синяя папка Откройте справку. Схема папки Тест 2026 .","expected_words":8},
+    {"type":"card","id":"demo-folder","language":"kk","fields":{"title":"Көк бума","summary":"Анықтаманы ашыңыз.","content_text":"# Көк бума\n[Анықтаманы](https://example.invalid/guide) ашыңыз. ![Бума сызбасы](https://example.invalid/image.svg) <b>Сынақ 2026</b>.","canonical_url":"https://example.invalid/kk/folder"},"expected_text":"# Көк бума Анықтаманы ашыңыз. Бума сызбасы Сынақ 2026 .","expected_words":8},
+    {"type":"card","id":"demo-folder","language":"en","fields":{"title":"Blue folder","summary":"Open the guide.","content_text":"# Blue folder\nOpen the [guide](https://example.invalid/guide). ![Folder diagram](https://example.invalid/image.svg) <b>Test 2026</b>.","canonical_url":"https://example.invalid/en/folder"},"expected_text":"# Blue folder Open the guide. Folder diagram Test 2026 .","expected_words":9},
+    {"type":"term","id":"demo-scheme","language":"ru","fields":{"term":"Схема","short":"Краткое описание.","definition":"Учебный пример без правового содержания.","example":"Пример: синяя папка.","canonical_url":"https://example.invalid/ru/scheme"},"expected_text":"Схема Краткое описание. Учебный пример без правового содержания. Пример: синяя папка.","expected_words":11},
+    {"type":"term","id":"demo-scheme","language":"kk","fields":{"term":"Сызба","short":"Қысқаша сипаттама.","definition":"Бұл тек оқу мысалы.","example":"Мысал: көк бума.","canonical_url":"https://example.invalid/kk/scheme"},"expected_text":"Сызба Қысқаша сипаттама. Бұл тек оқу мысалы. Мысал: көк бума.","expected_words":10},
+    {"type":"term","id":"demo-scheme","language":"en","fields":{"term":"Diagram","short":"A short description.","definition":"An educational example without legal content.","example":"Example: a blue folder.","canonical_url":"https://example.invalid/en/scheme"},"expected_text":"Diagram A short description. An educational example without legal content. Example: a blue folder.","expected_words":14},
+    {"type":"interface","id":"demo-open","language":"ru","fields":{"value":"Открыть папку"},"expected_text":"Открыть папку","expected_words":2},
+    {"type":"interface","id":"demo-open","language":"kk","fields":{"value":"Буманы ашу"},"expected_text":"Буманы ашу","expected_words":2},
+    {"type":"interface","id":"demo-open","language":"en","fields":{"value":"Open folder"},"expected_text":"Open folder","expected_words":2},
+    {"type":"interface","id":"demo-open-again","language":"ru","fields":{"value":"Открыть папку"},"expected_text":"Открыть папку","expected_words":2},
+    {"type":"interface","id":"demo-open-again","language":"kk","fields":{"value":"Буманы ашу"},"expected_text":"Буманы ашу","expected_words":2},
+    {"type":"interface","id":"demo-open-again","language":"en","fields":{"value":"Open folder"},"expected_text":"Open folder","expected_words":2}
+  ]
+}
