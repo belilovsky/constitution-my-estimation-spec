@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "revision": "292f5a639bcbc3ae7a89b95d2bde6862cb492837",
   "captured_at": "2026-09-04T14:55:58.023Z",
   "word_rule": "Unicode letters or digits, optional internal apostrophe/hyphen; URLs/markup excluded",

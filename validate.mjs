@@ -40,7 +40,7 @@ function csv(text){
  });
 }
 const manifest=json('manifest.json');
-assert.equal(manifest.version,'1.2');
+assert.equal(manifest.version,'1.3');
 assert.deepEqual(fs.readdirSync(root).filter(n=>n!=='.git').sort(),[...Object.keys(manifest.files),'manifest.json'].sort(),'Exact release allowlist');
 for(const [name,hash] of Object.entries(manifest.files)){
  assert(!path.isAbsolute(name)&&!name.split('/').includes('..'));
